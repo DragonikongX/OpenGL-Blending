@@ -9,12 +9,18 @@ Program, można uruchomić poprzez wybrane środowisko IDE (W moim przypadku by�
 Visual Studio 2019) dzięki plikowi OpenGL2.sln. Natomiast nie zalecam korzystania z tego
 sposobu ponieważ wymaga ono dodatkowego zlinkowania wszystkich plików bibliotek
 przedstawionych w 3 punkcie. Zalecam natomiast uruchamiać program poprzez dołączony plik
-OpenGL2.exe, znajdujący się w folderze EXE. W samej aplikacji sterumejmy przy pomocy
-następujących przycisków:
+OpenGL2.exe, znajdujący się w folderze EXE.
+
+W samej aplikacji sterumejmy przy pomocy następujących przycisków:
+
 W – Poruszanie do przodu
+
 S – Poruszanie do tyłu
+
 A – Poruszanie w lewo
+
 D – Poruszanie w prawo
+
 Mysz – Poruszanie myszą pozwala na obracanie kamerą według kierunku myszy
 
 ## Biblioteki i narzędzia:

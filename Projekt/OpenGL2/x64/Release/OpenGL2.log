@@ -1,0 +1,22 @@
+﻿  OpenGL2.cpp
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\Shader.hpp(31,2): warning C4091: "static ": zignorowano na lewo od "ShaderLoadClass" podczas gdy brak deklaracji zmiennej
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\VertexArray.hpp(16,63): warning C4244: "argument": konwersja z "GLsizeiptr" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\Light.hpp(50,1): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\Mesh.hpp(149,1): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\Window.hpp(58,1): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\Window.hpp(61,1): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\SoloFunctions.hpp(27,2): warning C4091: "static ": zignorowano na lewo od "SoloFunctions" podczas gdy brak deklaracji zmiennej
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\SoloFunctions.hpp(13,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\SoloFunctions.hpp(13,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\SoloFunctions.hpp(13,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\SoloFunctions.hpp(13,14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\SoloFunctions.hpp(14,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\SoloFunctions.hpp(14,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\SoloFunctions.hpp(14,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\OpenGL2\SoloFunctions.hpp(14,14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  3 of 1115 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  OpenGL2.vcxproj -> C:\Users\Drq\Downloads\OpenGL2\x64\Release\OpenGL2.exe

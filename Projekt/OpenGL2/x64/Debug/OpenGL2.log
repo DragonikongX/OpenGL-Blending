@@ -1,0 +1,20 @@
+﻿  OpenGL2.cpp
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\Shader.hpp(31,2): warning C4091: "static ": zignorowano na lewo od "ShaderLoadClass" podczas gdy brak deklaracji zmiennej
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\VertexArray.hpp(16,63): warning C4244: "argument": konwersja z "GLsizeiptr" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\Light.hpp(50,1): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\Mesh.hpp(149,1): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\Window.hpp(58,1): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\Window.hpp(61,1): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\SoloFunctions.hpp(27,2): warning C4091: "static ": zignorowano na lewo od "SoloFunctions" podczas gdy brak deklaracji zmiennej
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\SoloFunctions.hpp(13,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\SoloFunctions.hpp(13,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\SoloFunctions.hpp(13,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\SoloFunctions.hpp(13,14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\SoloFunctions.hpp(14,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\SoloFunctions.hpp(14,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\SoloFunctions.hpp(14,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\OpenGL2\SoloFunctions.hpp(14,14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  stb.cpp
+  Generowanie kodu...
+LINK : warning LNK4098: domyślna biblioteka „MSVCRT” powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
+  OpenGL2.vcxproj -> C:\Users\Drq\Downloads\OpenGL2\Projekt_AGK_Blending\Projekt\x64\Debug\OpenGL2.exe
